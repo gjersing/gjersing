@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gjersing // Christopher Gjersing!
-- 👀 I’m interested in efficient, responsive, and accessible software.
-- 🌱 I’m currently learning React Redux, Rails, and much more.
+- 📚 Full Stack Software Engineer with experience in Typescript and Ruby on Rails.
+- 🌱 I’m currently learning Redux, GraphQL, and mastering Node + React.
 <!---
 gjersing/gjersing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
